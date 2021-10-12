@@ -1,0 +1,3 @@
+apply sharpen
+save sharpenBeforeLoad.txt
+load testEmptyFile.txt
